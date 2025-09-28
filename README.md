@@ -51,13 +51,39 @@ Changelog
 - 2025-08-25: Project proposal drafted and organisation selected (Tharollo NPO Foundation).  
 - 2025-08-26: Content research started; images and text collected.  
 - 2025-08-27: Initial HTML structure created (Home, About, Contact).  
-- 2025-08-28: Drafted README.md file for Part 1 submission.  
+- 2025-08-28: Drafted README.md file for Part 1 submission.
 
+-----------
+Part 2: Technologies Used
+
+HTML5
+Used to structure the content and layout of the web pages. HTML5 provides semantic tags such as <header>, <section>, and <footer> to improve accessibility, readability, and SEO performance.
+
+CSS3
+Applied to style the web pages with modern design principles, including wireframe aesthetics, smooth animations, and consistent color schemes. CSS3 also enables flexible layout control using features such as Flexbox and CSS Grid.
+
+Google Maps Embed API
+Integrated interactive maps directly into the webpage to display specific locations. This API allows users to explore map views without leaving the site, enhancing user experience and providing easy navigation.
+
+Responsive Design Techniques
+Ensures that the website adapts seamlessly to different devices and screen sizes. Techniques include media queries, fluid grids, and flexible images to guarantee usability and visual consistency across desktops, tablets, and smartphones.
 ---
 
  📚 References
 - Unsplash. (2025) *Free stock images*. Available at: https://unsplash.com [Accessed 25 August 2025].  
 - Pexels. (2025) Free stock photos*. Available at: https://pexels.com [Accessed 25 August 2025].  
-- Tharollo NPO Foundation. (2025) *Organisation information (hypothetical for academic purposes)*.  
+- Tharollo NPO Foundation. (2025) *Organisation information (hypothetical for academic purposes)*.
+- 
+Google Maps Embed Code
+Google. (n.d.) Google Maps Embed API. Available at: https://developers.google.com/maps/documentation/embed
+ (Accessed: 28 September 2025).
+
+- CSS Styling Inspiration
+W3Schools. (2025) CSS Styling Techniques. Available at: https://www.w3schools.com/css/
+ (Accessed: 28 September 2025).
+
+Web Design Concepts
+MDN Web Docs. (2025) Learn Web Design. Available at: https://developer.mozilla.org/en-US/docs/Learn
+ (Accessed: 28 September 2025).
 
 
