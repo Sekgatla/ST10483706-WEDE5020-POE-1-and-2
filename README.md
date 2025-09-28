@@ -31,7 +31,7 @@ The website will consist of the following core pages:
 - Homepage (index.html): Hero image, introduction, and navigation menu.  
 - About Us (about.html): Organisation history, mission, vision, and team.  
 - Servicrs (services.html): Details of ongoing projects and community services.
-- - Get involved (get-involved.html) Ways  to participate and contributing.
+- Get involved (get-involved.html) Ways  to participate and contributing.
 - Contact (contact.html): Contact details, social media links, and embedded Google Maps.
  
 
