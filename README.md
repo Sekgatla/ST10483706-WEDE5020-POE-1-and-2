@@ -75,7 +75,7 @@ Ensures that the website adapts seamlessly to different devices and screen sizes
 - Unsplash. (2025) *Free stock images*. Available at: https://unsplash.com [Accessed 25 August 2025].  
 - Pexels. (2025) Free stock photos*. Available at: https://pexels.com [Accessed 25 August 2025].  
 - Tharollo NPO Foundation. (2025) *Organisation information (hypothetical for academic purposes)*.
-- 
+ 
 - Google Maps Embed Code
 Google. (n.d.) Google Maps Embed API. Available at: https://developers.google.com/maps/documentation/embed
  (Accessed: 28 September 2025).
