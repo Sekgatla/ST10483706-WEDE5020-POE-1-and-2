@@ -76,7 +76,7 @@ Ensures that the website adapts seamlessly to different devices and screen sizes
 - Pexels. (2025) Free stock photos*. Available at: https://pexels.com [Accessed 25 August 2025].  
 - Tharollo NPO Foundation. (2025) *Organisation information (hypothetical for academic purposes)*.
 - 
-Google Maps Embed Code
+- Google Maps Embed Code
 Google. (n.d.) Google Maps Embed API. Available at: https://developers.google.com/maps/documentation/embed
  (Accessed: 28 September 2025).
 
@@ -84,7 +84,7 @@ Google. (n.d.) Google Maps Embed API. Available at: https://developers.google.co
 W3Schools. (2025) CSS Styling Techniques. Available at: https://www.w3schools.com/css/
  (Accessed: 28 September 2025).
 
-Web Design Concepts
+- Web Design Concepts
 MDN Web Docs. (2025) Learn Web Design. Available at: https://developer.mozilla.org/en-US/docs/Learn
  (Accessed: 28 September 2025).
 
