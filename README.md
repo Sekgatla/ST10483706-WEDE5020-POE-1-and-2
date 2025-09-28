@@ -42,7 +42,7 @@ The website will consist of the following core pages:
 - Week 2: Create project folder structure and draft HTML files.
 - Week 3: Set up GitHub repository and push initial commits.
 - Week 4–5 (Part 2): Add CSS styling and responsive design.  
-- 
+ 
 
 ---
 ---
@@ -56,7 +56,8 @@ Changelog
 -----------
 Part 2: Technologies Used
 
-* HTML5  Used to structure the content and layout of the web pages. HTML5 provides semantic tags such as <header>, <section>, and <footer> to improve accessibility, readability, and SEO performance.
+* HTML5
+  Used to structure the content and layout of the web pages. HTML5 provides semantic tags such as <header>, <section>, and <footer> to improve accessibility, readability, and SEO performance.
 
 * CSS3
  Applied to style the web pages with modern design principles, including wireframe aesthetics, smooth animations, and consistent color schemes. CSS3 also enables flexible layout control using features such as Flexbox and CSS Grid.
