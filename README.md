@@ -4,7 +4,7 @@ Tharollo NPO Foundation Website
 - Name: Thabelo Glen Manubi
 - Student Number: ST10483706 
 - Module: Web Development (Introduction) – WEDE5020 
-- Assessment Type: POE 1 
+- Assessment Type: POE 1 and 2
 
 ---
 
@@ -30,8 +30,10 @@ The website will consist of the following core pages:
 
 - Homepage (index.html): Hero image, introduction, and navigation menu.  
 - About Us (about.html): Organisation history, mission, vision, and team.  
-- Servicrs (services.html): Details of ongoing projects and community services.  
-- Contact (contact.html): Contact details, social media links, and embedded Google Maps.  
+- Servicrs (services.html): Details of ongoing projects and community services.
+- - Get involved (get-involved.html) Ways  to participate and contributing.
+- Contact (contact.html): Contact details, social media links, and embedded Google Maps.
+ 
 
 ---
 
@@ -40,7 +42,7 @@ The website will consist of the following core pages:
 - Week 2: Create project folder structure and draft HTML files.
 - Week 3: Set up GitHub repository and push initial commits.
 - Week 4–5 (Part 2): Add CSS styling and responsive design.  
-- Week 6–7 (Part 3): Add interactivity with JavaScript, optimise SEO, and final deployment.  
+- 
 
 ---
 ---
@@ -58,17 +60,4 @@ Changelog
 - Pexels. (2025) Free stock photos*. Available at: https://pexels.com [Accessed 25 August 2025].  
 - Tharollo NPO Foundation. (2025) *Organisation information (hypothetical for academic purposes)*.  
 
-index.html (Home)  
-│  
-├── about.html (About Us)  
-│     └── Mission, Vision, Team  
-│  
-├── services.html (Programs & Services)  
-│     └── Youth Development  
-│     └── Community Outreach  
-│     └── Skills   
-│  
-└── contact.html (Contact)  
-      └── Contact Information  
-      
-      └── locations
+
