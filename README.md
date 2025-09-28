@@ -56,17 +56,19 @@ Changelog
 -----------
 Part 2: Technologies Used
 
-HTML5
-Used to structure the content and layout of the web pages. HTML5 provides semantic tags such as <header>, <section>, and <footer> to improve accessibility, readability, and SEO performance.
+* HTML5
+- Used to structure the content and layout of the web pages. HTML5 provides semantic tags such as <header>, <section>, and <footer> to improve accessibility, readability, and SEO performance.
 
-CSS3
-Applied to style the web pages with modern design principles, including wireframe aesthetics, smooth animations, and consistent color schemes. CSS3 also enables flexible layout control using features such as Flexbox and CSS Grid.
+* CSS3
+- Applied to style the web pages with modern design principles, including wireframe aesthetics, smooth animations, and consistent color schemes. CSS3 also enables flexible layout control using features such as Flexbox and CSS Grid.
 
-Google Maps Embed API
-Integrated interactive maps directly into the webpage to display specific locations. This API allows users to explore map views without leaving the site, enhancing user experience and providing easy navigation.
+* Google Maps Embed API
+- Integrated interactive maps directly into the webpage to display specific locations. This API allows users to explore map views without leaving the site, enhancing user experience and providing easy navigation.
 
 Responsive Design Techniques
 Ensures that the website adapts seamlessly to different devices and screen sizes. Techniques include media queries, fluid grids, and flexible images to guarantee usability and visual consistency across desktops, tablets, and smartphones.
+
+
 ---
 
  📚 References
