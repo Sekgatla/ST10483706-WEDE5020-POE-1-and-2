@@ -1,4 +1,4 @@
-/* ========== GLOBAL RESET & BASE ========== */
+
 * {
   margin: 0;
   padding: 0;
@@ -18,7 +18,6 @@
   margin: auto;
   }
   
-  /* ========== HEADER & NAVIGATION ========== */
   .site-header {
   background: #fff;
   border-bottom: 2px solid #eee;
@@ -53,7 +52,6 @@
   color: #f57c00;
   }
   
-  /* ========== HERO SECTIONS ========== */
   .hero-section {
   padding: 80px 20px;
   text-align: center;
@@ -98,7 +96,6 @@
   url("Images/contact-placeholder.jpg") center/cover no-repeat;
   }
   
-  /* ========== CARDS & CONTENT BLOCKS ========== */
   .card,
   .content-card {
   background: #fff;
@@ -146,7 +143,6 @@
   color: #f57c00;
   }
   
-  /* ========== ABOUT & GET INVOLVED OVERLAY FIX ========== */
   .about-overlay {
   position: relative;
   text-align: center;
@@ -191,7 +187,7 @@
   }
   }
   
-  /* ========== FORMS ========== */
+ 
   .contact-form {
   display: flex;
   flex-direction: column;
@@ -220,7 +216,6 @@
   background: #e65100;
   }
   
-  /* ========== FOOTER ========== */
   .site-footer {
   background: #333;
   color: #fff;
@@ -228,8 +223,7 @@
   padding: 20px;
   margin-top: 40px;
   }
-  
-  /* ========== RESPONSIVE DESIGN ========== */
+
   @media (max-width: 768px) {
   .site-nav .nav-list {
   flex-direction: column;
@@ -247,4 +241,5 @@
   }
   }
   
+
   
