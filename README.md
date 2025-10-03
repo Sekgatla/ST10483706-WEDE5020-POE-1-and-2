@@ -47,7 +47,8 @@ Tharollo-NPO-Website/
 ├── get-involved.html     # Page encouraging engagement/volunteering
 ├── contact.html          # Contact page with form/contact details
 ├── style.css             # Main stylesheet for site design
-├── README.md             # Project documentation
+├── README.md 
+├── CHANGELOG.md
 ├── images/               # Folder for images (logos, photos, icons)
 └── videos/               # Folder for videos (promos, events, campaigns)
 
