@@ -32,7 +32,29 @@ The website will consist of the following core pages:
 - About Us (about.html): Organisation history, mission, vision, and team.  
 - Servicrs (services.html): Details of ongoing projects and community services.
 - Get involved (get-involved.html) Ways  to participate and contributing.
-- Contact (contact.html): Contact details, social media links, and embedded Google Maps.
+- Contact (contact.html): Contact details, social media links, and embedded Google Maps
+
+
+---
+
+🗺️ Site Map
+
+Below is the site map diagram for the website:
+Tharollo-NPO-Website/
+├── index.html            # Homepage of the website
+├── about.html            # Page about the organization
+├── services.html         # Page detailing services offered
+├── get-involved.html     # Page encouraging engagement/volunteering
+├── contact.html          # Contact page with form/contact details
+├── style.css             # Main stylesheet for site design
+├── README.md             # Project documentation
+├── images/               # Folder for images (logos, photos, icons)
+└── videos/               # Folder for videos (promos, events, campaigns)
+
+
+
+
+
  
 
 ---
