@@ -49,6 +49,7 @@ Tharollo-NPO-Website/
 ├── style.css             # Main stylesheet for site design
 ├── README.md 
 ├── CHANGELOG.md
+├── wireframes/ 
 ├── images/               # Folder for images (logos, photos, icons)
 └── videos/               # Folder for videos (promos, events, campaigns)
 
