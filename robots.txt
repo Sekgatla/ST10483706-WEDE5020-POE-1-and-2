@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /README.md
+Disallow: /styles.css
+Disallow: /script.js
+
+Disallow: /private/
+Disallow: /temp/
+Disallow: /drafts/
+
+Sitemap: https://sekgatla.github.io/ST10483706-WEDE5020-POE-1--2-and-3/part3/sitemap.xml
