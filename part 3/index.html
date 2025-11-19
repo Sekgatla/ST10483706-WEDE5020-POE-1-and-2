@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Tharollo NPO Foundation | Home</title>
+<link rel="stylesheet" href="style.css" />
+<!-- START: SEO / Social meta (Added for Part 3) -->
+<meta name="description" content="Tharollo NPO Foundation — Solutions for a brighter tomorrow. Community support, educational workshops, health initiatives and volunteer opportunities in Polokwane, South Africa.">
+<meta name="keywords" content="Tharollo, NPO, Polokwane, community support, food parcels, youth mentorship, volunteer, South Africa, charity">
+<meta name="author" content="Tharollo NPO Foundation">
+<link rel="canonical" href="https://yourdomain.example/index.html">
+<meta property="og:site_name" content="Tharollo NPO Foundation">
+<meta property="og:title" content="Tharollo NPO Foundation — Solutions for a Brighter Tomorrow">
+<meta property="og:description" content="Community support, educational workshops, health & wellness initiatives, and volunteer opportunities in Polokwane, South Africa.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="Images/Tharollo-share-image.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tharollo NPO Foundation">
+<meta name="twitter:description" content="Bringing hope, dignity and opportunities to communities in Polokwane.">
+<meta name="twitter:image" content="Images/Tharollo-share-image.webp">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Organization",
+  "name":"Tharollo NPO Foundation",
+  "url":"https://yourdomain.example/",
+  "logo":"https://yourdomain.example/Images/logo%20of%20Tharollo.png",
+  "sameAs":[]
+}
+</script>
+<!-- Leaflet (interactive map) -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="" defer></script>
+<!-- END: SEO / Social meta (Added for Part 3) -->
+<script src="script.js" defer></script>
+</head>
+<body class="home-page centered">
+
+<header class="site-header">
+  <div class="nav-inner">
+    <a class="logo" href="index.html"><img src="Images/logo of Tharollo.png" alt="Tharollo NPO Foundation"></a>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Our Services</a></li>
+        <li><a href="get-involved.html">Get Involved</a></li>
+        <li><a href="enquiry.html">Enquiry</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+    <button id="menuBtn" class="menu-btn" aria-label="Menu">☰</button>
+  </div>
+</header>
+
+<main class="site-main">
+  <section class="frame hero frame-home">
+    <h1 class="page-title">Welcome to Tharollo NPO Foundation</h1>
+    <p class="page-sub">“Solutions for a Brighter Tomorrow”</p>
+  </section>
+
+  <section class="frame mission-frame">
+    <div class="mission-grid">
+      <div class="mission-card">
+        <h2>Hope</h2>
+        <p>Bringing light to communities in need.</p>
+      </div>
+      <div class="mission-card">
+        <h2>Dignity</h2>
+        <p>Restoring self-worth through compassion.</p>
+      </div>
+      <div class="mission-card">
+        <h2>Empowerment</h2>
+        <p>Creating long-term sustainable change.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="frame content-frame">
+    <div class="content">
+      <p>Tharollo NPO Foundation exists to bring hope, dignity, and opportunities to communities that face daily struggles.
+      The name “Tharollo” means “solution,” and this guides our mission to provide real answers to real challenges.
+      We are committed to uplifting families by offering immediate relief where it is most needed, while also creating
+      pathways for long-term empowerment. Our work is rooted in compassion and driven by a belief that change is possible
+      when communities unite for a common cause.</p>
+
+      <p>From food parcels and clothing donations to educational mentorship and health programs, our services are designed
+      to touch every part of life. We aim not only to meet basic needs but also to inspire hope and confidence in those we serve.
+      With the support of volunteers, partners, and donors, Tharollo NPO Foundation is growing stronger each year, reaching more families,
+      and planting seeds of transformation. By joining hands with us, you become part of a movement that believes every person deserves
+      the chance to thrive and every community deserves the chance to rise.</p>
+    </div>
+  </section>
+
+  <section class="frame media-frame">
+    <h2 class="section-title">Watch Our Story</h2>
+    <div class="video-wrap">
+      <video controls>
+        <source src="videos/Blue Navy and White Modern Charity Video.mp4" type="video/mp4">
+      </video>
+    </div>
+
+    <!-- Gallery added (thumbnails -> large via data-large) -->
+    <h3 class="section-title">Gallery</h3>
+    <div class="gallery-grid">
+      <img src="IMAGES/Tharollo-handing-out.webp" data-large="Images/gallery1.webp" alt="Volunteers handing out parcels">
+      <img src="IMAGES/community workshop.webp.png" data-large="Images/gallery2.webp" alt="Community workshop">
+      <img src="IMAGES/Gift of givers.webp" data-large="Images/gallery3.webp" alt="Clothing donation drive">
+      <img src="IMAGES/youth session.webp.png" data-large="Images/gallery4.webp" alt="Youth mentorship session">
+    </div>
+  </section>
+
+  <section class="frame stats-frame">
+    <div class="stats-grid">
+      <div class="stat">
+        <h3>500+</h3>
+        <p>Families Helped</p>
+      </div>
+      <div class="stat">
+        <h3>200+</h3>
+        <p>Youth Mentored</p>
+      </div>
+      <div class="stat">
+        <h3>50+</h3>
+        <p>Workshops Run</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dynamic events placeholder -->
+  <section class="frame" id="dynamicSection">
+    <h2 class="section-title">Upcoming Events & Services</h2>
+    <div id="dynamicList"></div> <!-- script fills this -->
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="frame footer-frame">
+    <p>&copy; 2025 Tharollo NPO Foundation</p>
+  </div>
+</footer>
+</body>
+</html>

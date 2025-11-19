@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Tharollo NPO Foundation | Contact Us</title>
+<link rel="stylesheet" href="style.css" />
+<!-- SEO meta -->
+<meta name="description" content="Contact Tharollo NPO Foundation — reach out about volunteering, partnerships, donations and community programs in Polokwane.">
+<link rel="canonical" href="https://yourdomain.example/contact.html">
+<script src="script.js" defer></script>
+</head>
+<body class="contact-page centered">
+
+<header class="site-header">
+  <div class="nav-inner">
+    <a class="logo" href="index.html"><img src="Images/logo of Tharollo.png" alt="Tharollo NPO Foundation"></a>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Our Services</a></li>
+        <li><a href="get-involved.html">Get Involved</a></li>
+        <li><a href="enquiry.html">Enquiry</a></li>
+        <li><a href="contact.html" class="active">Contact Us</a></li>
+      </ul>
+    </nav>
+    <button id="menuBtn5" class="menu-btn" aria-label="Menu">☰</button>
+  </div>
+</header>
+
+<main class="site-main">
+  <section class="frame hero frame-contact">
+    <h1 class="page-title">Contact Us</h1>
+  </section>
+
+  <section class="frame content-frame centered-text">
+    <div class="content-card">
+      <h2>Get in Touch</h2>
+      <p>We would love to hear from you. Whether you want to learn more about our programs, 
+      volunteer, or explore partnership opportunities, our team is here to help. 
+      At Tharollo NPO Foundation, we value open communication and believe that 
+      every question, suggestion, or idea brings us closer to making a difference. 
+      Please reach out by phone, email, or by filling out our contact form below. 
+      Together, we can shine brighter and continue building communities of hope.</p>
+    </div>
+
+    <div class="content-card">
+      <h2>Contact Information</h2>
+      <p>Email: TharolloNPOFoundation@gmail.com.org<br>
+      Phone: +27 82 429 825<br>
+      Address: 96 Bok Street, Polokwane, South Africa</p>
+    </div>
+
+    <div class="content-card">
+      <h2>Send Us a Message</h2>
+      <form id="contactForm" class="contact-form">
+        <label>Name: <input type="text" id="cName" required></label>
+        <label>Email: <input type="email" id="cEmail" required></label>
+        <label>Message:<br><textarea id="cMessage" required></textarea></label>
+        <button type="submit" class="btn-submit">Send</button>
+      </form>
+      <p id="contactResult" class="result-box" aria-live="polite" style="display:none;"></p>
+    </div>
+
+    <h2 class="section-title">Find Us on the Map</h2>
+    <div class="map-wrap">
+      <!-- Original Google iframe left as fallback -->
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d498.123456!2d29.446283!3d-23.903495!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDU0JzI4LjAiUyAyOcKwMjYnMDknMCJX!5e0!3m2!1sen!2sza!4v1696000000000!5m2!1sen!2sza"
+        width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+      <!-- Interactive Leaflet map (added) -->
+      <div id="leafletMap" aria-label="Map showing Tharollo NPO Foundation location"></div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="frame footer-frame">
+    <p>&copy; 2025 Tharollo NPO Foundation</p>
+  </div>
+</footer>
+</body>
+</html>
