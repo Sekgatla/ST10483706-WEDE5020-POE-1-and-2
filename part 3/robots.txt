@@ -1,15 +1,13 @@
 User-agent: *
 Allow: /
 
-# Do not index system or development files
 Disallow: /README.md
 Disallow: /styles.css
 Disallow: /script.js
 
-# Do not index potential private folders
 Disallow: /private/
 Disallow: /temp/
 Disallow: /drafts/
 
-# Link to your sitemap (update this once your GitHub Pages URL is ready)
-Sitemap: https://YOUR-GITHUB-PAGES-URL/sitemap.xml
+Sitemap: https://sekgatla.github.io/ST10483706-WEDE5020-POE-1--2-and-3/part3/sitemap.xml
+
